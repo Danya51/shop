@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lime;
+    color: darkolivegreen;
+}
+
+header b {
+    font-size: 20px;
+}
+        
+header a {
+    background-color: mediumspringgreen;
+    color: olive;
+    border: 1px solid darkgreen;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 4px;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: gold;
+    background-color: indigo;
+}
+
+footer p {
+    color: darkturquoise;
+}
+
+footer {
+    background-color: mediumblue;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: gold;
+    border: 2px solid gold;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 3px;
+    color: chocolate;
+    font-size: 20px;
+}
+
+nav {
+    background-color: lime;
+}
+
+.qwerty {
+    background-color: darkorange;
+    color: lemonchiffon;
+    border: 3px solid tomato;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 3px;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: springgreen;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 40px;
+    color: white;
+    border: 3px solid green;
+    background-color: green;
+    border-radius: 20px;
+}
